@@ -59,7 +59,7 @@ public class ProgramaTienda
         Console.WriteLine("\n¡Gracias por comprar en la tienda de Ana!");
     }
 
-    // 🛍 Método para procesar la compra
+    //Método para procesar la compra
     public static List<int> comprarProductos(
         List<string> productos,
         List<double> precios,
