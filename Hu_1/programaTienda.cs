@@ -113,7 +113,7 @@ public class ProgramaTienda
                     }
                     else
                     {
-                        // ✅ Compra válida: actualizar stock y guardar historial
+                        //Compra válida: actualizar stock y guardar historial
                         stock[indexProducto] -= cantidadPedida;
 
                         double subtotal = precios[indexProducto] * cantidadPedida;
