@@ -1,0 +1,14 @@
+/home/sarah/RiderProjects/Hu_1/Hu_1/bin/Debug/net8.0/Hu_1
+/home/sarah/RiderProjects/Hu_1/Hu_1/bin/Debug/net8.0/Hu_1.deps.json
+/home/sarah/RiderProjects/Hu_1/Hu_1/bin/Debug/net8.0/Hu_1.runtimeconfig.json
+/home/sarah/RiderProjects/Hu_1/Hu_1/bin/Debug/net8.0/Hu_1.dll
+/home/sarah/RiderProjects/Hu_1/Hu_1/bin/Debug/net8.0/Hu_1.pdb
+/home/sarah/RiderProjects/Hu_1/Hu_1/obj/Debug/net8.0/Hu_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarah/RiderProjects/Hu_1/Hu_1/obj/Debug/net8.0/Hu_1.AssemblyInfoInputs.cache
+/home/sarah/RiderProjects/Hu_1/Hu_1/obj/Debug/net8.0/Hu_1.AssemblyInfo.cs
+/home/sarah/RiderProjects/Hu_1/Hu_1/obj/Debug/net8.0/Hu_1.csproj.CoreCompileInputs.cache
+/home/sarah/RiderProjects/Hu_1/Hu_1/obj/Debug/net8.0/Hu_1.dll
+/home/sarah/RiderProjects/Hu_1/Hu_1/obj/Debug/net8.0/refint/Hu_1.dll
+/home/sarah/RiderProjects/Hu_1/Hu_1/obj/Debug/net8.0/Hu_1.pdb
+/home/sarah/RiderProjects/Hu_1/Hu_1/obj/Debug/net8.0/Hu_1.genruntimeconfig.cache
+/home/sarah/RiderProjects/Hu_1/Hu_1/obj/Debug/net8.0/ref/Hu_1.dll
